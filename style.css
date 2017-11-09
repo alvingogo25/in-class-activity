@@ -1,0 +1,37 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	
+}
+
+div{
+	background-color: #EEE;
+	margin: 0 20%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+h1 {
+	color: #3AE;
+	text-align: center;
+	background-color: #DDD;
+	margin: 0 20%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h2 {
+	color: #FD2;
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin:0 auto;
+	width: 300px;
+}
+
+.center-left {
+	max-width: 400px;
+	text-align: left;
+	margin: 0 auto;
+}
